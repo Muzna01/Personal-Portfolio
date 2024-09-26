@@ -15,7 +15,8 @@ export default function Footer() {
         <SectionHeading> Contact Me</SectionHeading>
       <div className="container mx-auto text-center  text-gray-500">
         
-        <ul className="flex justify-center space-x-4 font-medium pb-5">
+        <ul className="flex flex-col sm:flex-row justify-center sm:space-x-4 space-y-2 sm:space-y-0 font-medium pb-5">
+
           <li>
             muznaahmer@gmail.com
           </li>
@@ -25,7 +26,7 @@ export default function Footer() {
             </a>
           </li>
         </ul>
-        <p className="text-sm">
+        <p className="text-xs sm:text-sm"        >
           &copy; {new Date().getFullYear()} My Website. All rights reserved.
         </p>
       </div>
