@@ -5,7 +5,7 @@ import SectionHeading from './section-heading'
 import {motion} from "framer-motion"
 export default function Footer() {
   return (
-    <motion.footer className="  py-4 bg-gray-200 w-[22rem]"
+    <motion.footer className="  py-4 bg-gray-200 w-full"
     id='contact'
     initial={{ opacity: 0, y: 100 }}
     animate={{ opacity: 1, y: 0 }}
