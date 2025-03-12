@@ -17,18 +17,21 @@ export default function About() {
     >  
     <SectionHeading>About me</SectionHeading> 
       <p className="mb-3">
-        As a recent{" "}
-        <span className="font-semibold  italic">Computer Science </span>graduate from{" "}
-        <span className="font-semibold  italic">COMSATS University Lahore,</span>{" "}
-        I&apos;m a driven and passionate web developer with a deep focus on frontend technologies. With hands-on expertise in  <span className="font-semibold  italic">JavaScript, TypeScript, React, and Next.js,</span> I build sleek, high-performance web applications that merge functionality with creativity. My approach is rooted in 
-        <span className="font-medium italic"> problem-solving and writing clean, efficient code that delivers seamless user experiences. </span> I thrive on tackling new challenges and am eager to bring my energy and skills to a dynamic team where I can make an immediate impact. 
-      </p>
+      As a <span className="font-semibold italic">Computer Science</span> graduate from  
+  <span className="font-semibold italic"> COMSATS University Lahore,</span> I thrive at the intersection of  
+  <span className="font-semibold "> web development and process automation.</span> Currently interning at  
+  <span className="font-semibold italic"> CONFIZ,</span> I’m gaining hands-on experience with  
+  <span className="font-semibold "> ISO standards, Power Automate, and SharePoint,</span> optimizing workflows for efficiency.  
+  With a strong command of <span className="font-semibold"> JavaScript, TypeScript, React, and Next.js,</span>  
+   I build high-performance web applications that seamlessly blend functionality and creativity.  
+  <span className="font-medium "> I thrive on continuous learning and problem-solving, always seeking innovative solutions.</span>
+</p>
 
-      <p>
-        <span className="italic">Beyond coding, I have a strong flair for design, with proficiency in </span>{" "}
-        <span className="font-semibold  italic">Figma and Sketch</span> to create visually compelling, intuitive interfaces. I&apos;m continuously exploring new tools and technologies. , I&apos;m actively seeking a full-time opportunity where I can make an {" "}
-        <span className="font-medium italic">impact and continue growing in the fast-evolving world of web development.</span>.
-      </p>
+<p>
+  <span className="italic">Beyond coding, my passion for design drives me to craft user-centric experiences with </span>  
+  <span className="font-semibold ">Figma</span>. I’m always eager to learn, grow, and push the boundaries of what’s possible.  
+  <span className="font-medium ">With an ever-curious mindset, I embrace new challenges and strive to make a real impact.</span>
+</p>
     </motion.section>
   );
 }

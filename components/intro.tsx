@@ -42,7 +42,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <p className="font-bold">Hi, I&apos;m Muzna.</p> {""}
-        <p className="font-bold ">I&apos;m a Web Developer.</p>
+        <p className="font-bold ">I&apos;m a CS Graduate.</p>
         </motion.h1>
 
 
@@ -57,7 +57,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 mr-2 active:scale-105 transition cursor-pointer borderBlack"
-          href="/CV.pdf"
+          href="\public\MUZNA-RESUME.pdf"
           download
         >
           CV File{" "}
