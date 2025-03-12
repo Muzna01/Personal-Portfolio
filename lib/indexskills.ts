@@ -54,8 +54,14 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Material UI",
-      Image: "/mui.png",
+      skill_name: "Microsoft Office",
+      Image: "/office.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skill_name: "SharePoint",
+      Image: "/sharepoint.png",
       width: 80,
       height: 80,
     },
@@ -66,8 +72,8 @@ export const Skill_data = [
       height: 50,
     },
     {
-      skill_name: "Sketch",
-      Image: "/sketch.png",
+      skill_name: "Power Automate",
+      Image: "/powerautomate.png",
       width: 80,
       height: 80,
     },
@@ -80,6 +86,12 @@ export const Skill_data = [
   ];
   
   export const Backend_skill = [
+    {
+      skill_name: "Material UI",
+      Image: "/mui.png",
+      width: 55,
+      height: 55,
+    },
     {
       skill_name: "Node js",
       Image: "/node-js.png",

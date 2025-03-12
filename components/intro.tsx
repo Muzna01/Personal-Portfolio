@@ -57,7 +57,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 mr-2 active:scale-105 transition cursor-pointer borderBlack"
-          href="\public\MUZNA-RESUME.pdf"
+          href="/MUZNA-RESUME.pdf"
           download
         >
           CV File{" "}
