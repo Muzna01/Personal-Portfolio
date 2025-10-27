@@ -14,6 +14,10 @@ export const links = [
     hash: "#about",
   },
   {
+    name: "Experience",
+    hash: "#experience",
+  },
+  {
     name: "Projects",
     hash: "#projects",
   },
@@ -38,28 +42,29 @@ export const projectsData = [
     imageUrl: portfolioImg,
     link: "https://muzna-portfolio.vercel.app",
   },
- { title: "Gericht",
-  description:"A resturant layout which shows the menu with the prices and ambience of the place made by following a figma design. Click to visit the website",
-  tags: ["React", "JavaScript", "CSS"],
-  imageUrl: GerichtImg,
-  link: "https://my-app-resturant.vercel.app/", 
-},
-{
-title: "GPT3",
-description:
-  "A simple React layout made also by following a figma design. Learned different concepts by making this layout. Click to visit the github repo",
-tags: ["React", "JavaScript", "CSS"],
-imageUrl: gptImg,
-link: "https://github.com/Muzna01/my-app",
-},
-{
-  title: "Yariga",
-  description:
-    "A fully functional dashboard app with CRUD implementation and database management as well. Charts are also used to show analytics. Click to visit the github repo",
-  tags: ["MongoDB", "Express", "React", "Node.js"],
-  imageUrl: yarigaImg,
-  link: "https://github.com/Muzna01/MernApp-Yariga",
-},
+  {
+    title: "Gericht",
+    description: "A resturant layout which shows the menu with the prices and ambience of the place made by following a figma design. Click to visit the website",
+    tags: ["React", "JavaScript", "CSS"],
+    imageUrl: GerichtImg,
+    link: "https://my-app-resturant.vercel.app/",
+  },
+  {
+    title: "GPT3",
+    description:
+      "A simple React layout made also by following a figma design. Learned different concepts by making this layout. Click to visit the github repo",
+    tags: ["React", "JavaScript", "CSS"],
+    imageUrl: gptImg,
+    link: "https://github.com/Muzna01/my-app",
+  },
+  {
+    title: "Yariga",
+    description:
+      "A fully functional dashboard app with CRUD implementation and database management as well. Charts are also used to show analytics. Click to visit the github repo",
+    tags: ["MongoDB", "Express", "React", "Node.js"],
+    imageUrl: yarigaImg,
+    link: "https://github.com/Muzna01/MernApp-Yariga",
+  },
   {
     title: "REACH Portal",
     description:
