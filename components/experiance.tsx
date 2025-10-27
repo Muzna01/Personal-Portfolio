@@ -19,7 +19,7 @@ type ExperienceData = {
 const experienceData: ExperienceData[] = [
     {
         title: "Software Developer",
-        company: "Vision",
+        company: "VisionSwipe",
         location: "Remote",
         date: "Dec 2024 - Present",
         description: [
