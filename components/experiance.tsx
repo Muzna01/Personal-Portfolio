@@ -38,7 +38,7 @@ const experienceData: ExperienceData[] = [
         title: "Process Audit Intern",
         company: "Confiz",
         location: "Lahore, Pakistan",
-        date: "Dec 2023 - Sept 2025",
+        date: "Dec 2024 - Sept 2025",
         description: [
             "Collaborated with cross-functional teams to analyze and document processes",
             "Supported internal audit for ISO standards: ISO 9001:2015 (Quality), ISO 14001:2015 (Environment), ISO 45001:2018 (Health & Safety), ISO 27001:2022 (Information Security), ISO 20000-1:2018 (IT Service Management)",
