@@ -14,64 +14,54 @@ export const links = [
     hash: "#about",
   },
   {
-    name: "Experience",
+    name: "Skills",
     hash: "#experience",
   },
   {
-    name: "Projects",
+    name: "Testimonials",
     hash: "#projects",
   },
-  {
-    name: "Skills",
-    hash: "#skills",
-  },
+  // {
+  //   name: "Skills",
+  //   hash: "#skills",
+  // },
 
-  {
-    name: "Contact",
-    hash: "#contact",
-  },
+  // {
+  //   name: "Contact",
+  //   hash: "#contact",
+  // },
 ] as const;
 
 
 export const projectsData = [
   {
-    title: "My Portfolio",
+    title: "Johnsngoni",
     description:
-      "A simple NextJs portfolio that showcases my projects and skills. Implemented smooth animations and a responsive design. Click to visit the website",
-    tags: ["React", "Next.js", "TypeScript", "Tailwind", "Framer Motion"],
-    imageUrl: portfolioImg,
-    link: "https://muzna-portfolio.vercel.app",
+      "I am speechless. He has embodied me. I am reading the work like it's what I would write, the perfect word and expression, the warmth and care, it all is so familiar. When I decided to get help because I developed brain fog, I couldn't have asked for anyone better to finish what I started, fine tune my work. Take the time to read all my research material, ask the right questions and channel me. I am forever grateful, truly humbled.",
+    tags: ["5.0 rating"],
   },
   {
-    title: "Gericht",
-    description: "A resturant layout which shows the menu with the prices and ambience of the place made by following a figma design. Click to visit the website",
-    tags: ["React", "JavaScript", "CSS"],
-    imageUrl: GerichtImg,
-    link: "https://my-app-resturant.vercel.app/",
+    title: "Teewayn",
+    description: "During the writing process, the seller became more than an author but a friend / family. The writing experience was intense but worth it. Enjoyed every moment and will definitely work with him again",
+    tags: ["5.0 rating"],
   },
   {
-    title: "GPT3",
+    title: "Johnsngon",
     description:
-      "A simple React layout made also by following a figma design. Learned different concepts by making this layout. Click to visit the github repo",
-    tags: ["React", "JavaScript", "CSS"],
-    imageUrl: gptImg,
-    link: "https://github.com/Muzna01/my-app",
+      "Thank you Mehwish for another great project delivery. I sincerely appreciate your support in bringing this book to life. Taking on my crazy Ideas and excessive notes. It's been a real pleasure. It's a page turner!",
+    tags: ["5.0 rating"],
   },
   {
-    title: "Yariga",
+    title: "Johnsngon",
     description:
-      "A fully functional dashboard app with CRUD implementation and database management as well. Charts are also used to show analytics. Click to visit the github repo",
-    tags: ["MongoDB", "Express", "React", "Node.js"],
-    imageUrl: yarigaImg,
-    link: "https://github.com/Muzna01/MernApp-Yariga",
+      "Yet another project delivered to an exceptional standard. I have learnt so much working with Mehwish, his adaptability to my writing style continues to show and I am forever grateful. I cannot walt to work together on future projects. Thank you for helping me bring my story to life",
+    tags: ["5.0 rating"],
   },
   {
-    title: "REACH Portal",
+    title: "Islamsami",
     description:
-      " A user-firendly data management portal layout designed and developed by me so that the management can save their data. ",
-    tags: ["HTML", "CSS", "Bootstrap"],
-    imageUrl: reachImg,
-    link: "#",
+      " Mehwish G did an AMAZING job on my book, going above and beyond with exceptional professionalism and attention to detail. Her quick responsiveness, politeness, and deep understanding made the entire process smooth and enjoyable. Thank you so much-I'l definitely reach out again! ",
+    tags: ["5.0 rating"],
   },
 
 ] as const;

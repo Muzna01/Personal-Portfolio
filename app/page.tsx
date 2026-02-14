@@ -11,13 +11,12 @@ import Experience from "@/components/experiance"
 export default function Home() {
   return (
     <main className='flex flex-col items-center px-4' >
-     <Intro/>
-     <SectionDivider/>
-     <About/>
-     <Experience/>
-     <Projects/>
-     <Skills/>
-     
+      <Intro />
+      <SectionDivider />
+      <About />
+      <Experience />
+      <Projects />
+
     </main>
   )
 }
